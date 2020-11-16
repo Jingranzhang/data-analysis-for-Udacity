@@ -3,7 +3,7 @@ This repo contains the projects I completed for Udacity Data Analyst Nanodegree.
 # Project 1: Explore weather trends
 ## Summary
 Extracted data with SQL query; Analyzed local and global temperature data and compared the temperature trends in Berlin (where I ive) to overall global temperature trends;Created a visualization to describe the differences and similarties between the global trends and the temperature trend in Berlin<p>
-**key word**: SQL, pyhon (Numpy, Pandas, Matplotlib)
+**key word**: data extraction with SQL, data exploration with pyhon (Numpy, Pandas, Matplotlib)
 
 # Project 2: Investigate a dataset
 ## Summary
