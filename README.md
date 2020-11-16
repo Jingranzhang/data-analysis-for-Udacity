@@ -24,4 +24,4 @@ Gathered data from Tweet Archive and Tweet API; Assessed and cleaned data to obt
 # Project 5: Communicate data findings
 ## Summary
 Used python visualization libraries (matplotlib and seaborn) to systematically explore the dataset; Discovered relationship of single and multiple variables; Produced a short presentation that illustrates interesting properties, trends, and relationships. <p> 
-**key word** plots of single and multiple variables, commmunication of findings
+**key word**: plots of single and multiple variables, commmunication of findings
